@@ -5,7 +5,7 @@
 
 
 <p  align="center">
-  <img src="https://github.com/zmo2s/mongoDB/blob/main/img/excel1.PNG" width="900" title="Excel">
+  <img src="https://github.com/zmo2s/mongoDB/blob/main/img/excel1.PNG" width="450" title="Excel">
 </p>
 
 
@@ -18,5 +18,5 @@
 </p>
 
 <p  align="center">
-  <img src="https://github.com/zmo2s/mongoDB/blob/main/img/excel4.PNG" width="900" title="Excel">
+  <img src="https://github.com/zmo2s/mongoDB/blob/main/img/excel4.PNG" width="450" title="Excel">
 </p>
