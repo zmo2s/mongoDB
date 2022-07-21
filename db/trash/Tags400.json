@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "62d916c3d9a751a69b5f9cd2"
+  },
+  "_idTagMandatoryOption": 1,
+  "dataToDownload": true,
+  "dtm": true,
+  "eventDTM1": true,
+  "eventPeriod1": true,
+  "eventPeriod2": true,
+  "eventTx": true,
+  "eventTxSeconde": true,
+  "framePlayloadNumber": true,
+  "periodeEmssionSecondaire": true,
+  "periodeMesurCapteur": true
+},{
+  "_id": {
+    "$oid": "62d9206b281b8e571cc324c1"
+  },
+  "_idTagMandatoryOption": 2,
+  "dataToDownload": false,
+  "dtm": false,
+  "eventDTM1": false,
+  "eventPeriod1": false,
+  "eventPeriod2": false,
+  "eventTx": false,
+  "eventTxSeconde": false,
+  "framePlayloadNumber": false,
+  "periodeEmssionSecondaire": false,
+  "periodeMesurCapteur": false
+}]

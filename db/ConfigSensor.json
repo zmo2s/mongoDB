@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "62d91aa0d9a751a69b5f9ce4"
+  },
+  "dureeAiTotOut": true,
+  "modeMag": false,
+  "sesibilitePir": false,
+  "_idConfigBase": 1
+},{
+  "_id": {
+    "$oid": "62d920dc281b8e571cc324ca"
+  },
+  "dureeAiTotOut": false,
+  "modeMag": true,
+  "sesibilitePir": false,
+  "_idConfigBase": 2
+},{
+  "_id": {
+    "$oid": "62d920e0281b8e571cc324cb"
+  },
+  "dureeAiTotOut": false,
+  "modeMag": false,
+  "sesibilitePir": true,
+  "_idConfigBase": 3
+},{
+  "_id": {
+    "$oid": "62d920e3281b8e571cc324cc"
+  },
+  "dureeAiTotOut": false,
+  "modeMag": false,
+  "sesibilitePir": false,
+  "_idConfigBase": 4
+}]

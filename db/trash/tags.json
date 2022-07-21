@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "62d80cba281b8e571cc32481"
+  },
+  "format": "ID",
+  "modele": "PUCK",
+  "version": "2.0.0",
+  "_idTagMandatoryOption": 1
+},{
+  "_id": {
+    "$oid": "62d93369281b8e571cc324f7"
+  },
+  "format": "ID",
+  "modele": "PUCK",
+  "version": "4.0.0",
+  "_idTagMandatoryOption": 2
+},{
+  "_id": {
+    "$oid": "62d9336d281b8e571cc324f8"
+  },
+  "format": "EDDYSTONE",
+  "modele": "PUCK",
+  "version": "2.0.0",
+  "_idTagMandatoryOption": 1
+},{
+  "_id": {
+    "$oid": "62d933c2281b8e571cc324f9"
+  },
+  "format": "EDDYSTONE",
+  "modele": "PUCK",
+  "version": "4.0.0",
+  "_idTagMandatoryOption": 2
+},{
+  "_id": {
+    "$oid": "62d933dc281b8e571cc324fa"
+  },
+  "format": "IBEACON",
+  "modele": "PUCK",
+  "version": "2.0.0",
+  "_idTagMandatoryOption": 1
+},{
+  "_id": {
+    "$oid": "62d93408281b8e571cc324fb"
+  },
+  "format": "IBEACON",
+  "modele": "PUCK",
+  "version": "4.0.0",
+  "_idTagMandatoryOption": 2
+},{
+  "_id": {
+    "$oid": "62d93435281b8e571cc324fc"
+  },
+  "format": "T",
+  "modele": "PUCK",
+  "version": "2.0.0",
+  "_idTagMandatoryOption": 1
+},{
+  "_id": {
+    "$oid": "62d9352e281b8e571cc324ff"
+  },
+  "format": "T",
+  "modele": "PUCK",
+  "version": "4.0.0",
+  "_idTagMandatoryOption": 2
+},{
+  "_id": {
+    "$oid": "62d93580281b8e571cc32500"
+  },
+  "format": "RHT",
+  "modele": "PUCK",
+  "version": "2.0.0",
+  "_idTagMandatoryOption": 1
+},{
+  "_id": {
+    "$oid": "62d9359f281b8e571cc32501"
+  },
+  "format": "RHT",
+  "modele": "PUCK",
+  "version": "4.0.0",
+  "_idTagMandatoryOption": 2
+},{
+  "_id": {
+    "$oid": "62d935e5281b8e571cc32502"
+  },
+  "format": "MAG",
+  "modele": "PUCK",
+  "version": "2.0.0",
+  "_idTagMandatoryOption": 1
+},{
+  "_id": {
+    "$oid": "62d93601281b8e571cc32503"
+  },
+  "format": "MAG",
+  "modele": "PUCK",
+  "version": "4.0.0",
+  "_idTagMandatoryOption": 3
+},{
+  "_id": {
+    "$oid": "62d9362b281b8e571cc32504"
+  },
+  "format": "MOV",
+  "modele": "PUCK",
+  "version": "2.0.0",
+  "_idTagMandatoryOption": 1
+},{
+  "_id": {
+    "$oid": "62d93646281b8e571cc32505"
+  },
+  "format": "MOV",
+  "modele": "PUCK",
+  "version": "4.0.0",
+  "_idTagMandatoryOption": 2
+},{
+  "_id": {
+    "$oid": "62d93666281b8e571cc32506"
+  },
+  "format": "ANG",
+  "modele": "PUCK",
+  "version": "2.0.0",
+  "_idTagMandatoryOption": 1
+},{
+  "_id": {
+    "$oid": "62d93681281b8e571cc32507"
+  },
+  "format": "ANG",
+  "modele": "PUCK",
+  "version": "4.0.0",
+  "_idTagMandatoryOption": 2
+},{
+  "_id": {
+    "$oid": "62d9369a281b8e571cc32508"
+  },
+  "format": "TOROUT",
+  "modele": "PUCK",
+  "version": "2.0.0",
+  "_idTagMandatoryOption": 4
+},{
+  "_id": {
+    "$oid": "62d936ab281b8e571cc32509"
+  },
+  "format": "TOROUT",
+  "modele": "PUCK",
+  "version": "4.0.0",
+  "_idTagMandatoryOption": 5
+},{
+  "_id": {
+    "$oid": "62d936d7281b8e571cc3250a"
+  },
+  "format": "AI",
+  "modele": "PUCK",
+  "version": "2.0.0",
+  "_idTagMandatoryOption": 1
+},{
+  "_id": {
+    "$oid": "62d936f1281b8e571cc3250b"
+  },
+  "format": "AI",
+  "modele": "PUCK",
+  "version": "4.0.0",
+  "_idTagMandatoryOption": 2
+},{
+  "_id": {
+    "$oid": "62d93711281b8e571cc3250c"
+  },
+  "format": "TORIN",
+  "modele": "PUCK",
+  "version": "2.0.0",
+  "_idTagMandatoryOption": 1
+},{
+  "_id": {
+    "$oid": "62d9372a281b8e571cc3250d"
+  },
+  "format": "TORIN",
+  "modele": "PUCK",
+  "version": "4.0.0",
+  "_idTagMandatoryOption": 2
+},{
+  "_id": {
+    "$oid": "62d93796281b8e571cc3250e"
+  },
+  "format": "TPROBE",
+  "modele": "PUCK",
+  "version": "4.0.0",
+  "_idTagMandatoryOption": 2
+},{
+  "_id": {
+    "$oid": "62d937a9281b8e571cc3250f"
+  },
+  "format": "PIR",
+  "modele": "PUCK",
+  "version": "4.0.0",
+  "_idTagMandatoryOption": 6
+},{
+  "_id": {
+    "$oid": "62d937c0281b8e571cc32510"
+  },
+  "format": "PROXIR",
+  "modele": "PUCK",
+  "version": "4.0.0",
+  "_idTagMandatoryOption": 2
+}]

@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "62d91939d9a751a69b5f9cd9"
+  },
+  "dureeEvent": true,
+  "isActivateTag": true,
+  "isLoggerActivate": true,
+  "puissanceDbm": true,
+  "recurrenceAdvertising": true,
+  "recurrenceEvent": true,
+  "recurrenceLog": true,
+  "useBUzzer": true,
+  "useLED": true,
+  "useModConnected": true,
+  "_idOptions": 4,
+  "_idTags400": 1,
+  "_idTags": 1
+},{
+  "_id": {
+    "$oid": "62d9316e281b8e571cc324ee"
+  },
+  "dureeEvent": true,
+  "isActivateTag": true,
+  "isLoggerActivate": true,
+  "puissanceDbm": true,
+  "recurrenceAdvertising": true,
+  "recurrenceEvent": true,
+  "recurrenceLog": true,
+  "useBUzzer": true,
+  "useLED": true,
+  "useModConnected": true,
+  "_idOptions": 4,
+  "_idTags400": 2,
+  "_idTags": 2
+},{
+  "_id": {
+    "$oid": "62d9318b281b8e571cc324ef"
+  },
+  "dureeEvent": true,
+  "isActivateTag": true,
+  "isLoggerActivate": true,
+  "puissanceDbm": true,
+  "recurrenceAdvertising": true,
+  "recurrenceEvent": true,
+  "recurrenceLog": true,
+  "useBUzzer": true,
+  "useLED": true,
+  "useModConnected": true,
+  "_idOptions": 1,
+  "_idTags400": 2,
+  "_idTags": 3
+},{
+  "_id": {
+    "$oid": "62d931d2281b8e571cc324f0"
+  },
+  "dureeEvent": true,
+  "isActivateTag": true,
+  "isLoggerActivate": true,
+  "puissanceDbm": true,
+  "recurrenceAdvertising": true,
+  "recurrenceEvent": true,
+  "recurrenceLog": true,
+  "useBUzzer": true,
+  "useLED": true,
+  "useModConnected": true,
+  "_idOptions": 3,
+  "_idTags400": 1,
+  "_idTags": 4
+},{
+  "_id": {
+    "$oid": "62d93207281b8e571cc324f1"
+  },
+  "dureeEvent": true,
+  "isActivateTag": true,
+  "isLoggerActivate": true,
+  "puissanceDbm": true,
+  "recurrenceAdvertising": true,
+  "recurrenceEvent": true,
+  "recurrenceLog": true,
+  "useBUzzer": true,
+  "useLED": true,
+  "useModConnected": true,
+  "_idOptions": 3,
+  "_idTags400": 2,
+  "_idTags": 5
+},{
+  "_id": {
+    "$oid": "62d9321b281b8e571cc324f2"
+  },
+  "dureeEvent": true,
+  "isActivateTag": true,
+  "isLoggerActivate": true,
+  "puissanceDbm": true,
+  "recurrenceAdvertising": true,
+  "recurrenceEvent": true,
+  "recurrenceLog": true,
+  "useBUzzer": true,
+  "useLED": true,
+  "useModConnected": true,
+  "_idOptions": 2,
+  "_idTags400": 2,
+  "_idTags": 6
+}]
